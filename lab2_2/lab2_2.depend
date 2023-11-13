@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1699845279 source:c:\users\shehr\desktop\sem8\compiler design\lab2\lab2_2\main.cpp
-	<iostream>
-	<string>
-	<fstream>
-
